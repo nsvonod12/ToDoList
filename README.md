@@ -18,7 +18,7 @@ npm run dev
 
 ### Links
 
-- Live Site URL: [To do List]()
+- Live Site URL: [To do List](https://taupe-profiterole-6a3075.netlify.app/)
 
 ### Built with
 
